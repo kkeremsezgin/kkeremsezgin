@@ -1,4 +1,4 @@
-Hi There 👋🏻
+Hi there 👋🏻
 
 
 - 👨🏻‍💻 I am currently a student at Istanbul University Computer Engineering.
