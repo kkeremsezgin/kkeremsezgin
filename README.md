@@ -1,11 +1,5 @@
 ### Hi 👋 I'm Kerem
 
-<p>
-<a href="https://www.linkedin.com/in/keremsezgin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -22,6 +16,15 @@ Outside of coding, I was a competitive basketball player for 10 years, which tau
 * 🧠 Exploring Data Science with **Pandas** and **Scikit-learn**.
 * 📱 Learning **Swift** and **SwiftUI** to build native iOS applications.
 * 📚 Mastering core concepts in **C** and **C++**.
+
+---
+
+### 🌐 Connect with me:
+<p>
+<a href="https://www.linkedin.com/in/keremsezgin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
 
 ---
 
