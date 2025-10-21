@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Engineering student at Istanbul University, passionate about software development and building practical, user-friendly applications. I enjoy tackling problems with code and am always eager to learn new technologies.
+I am a first-year computer engineering student at Istanbul University, passionate about exploring the realms of coding, data science, machine learning and building practical, user-friendly applications. I enjoy tackling problems with code and am always eager to learn new technologies.
 
 Outside of coding, I was a competitive basketball player for 10 years, which taught me a lot about teamwork, discipline, and leadership.
 
@@ -59,14 +59,6 @@ My skills are always growing. Here's what I'm working with:
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kkremsezgin&show_icons=true&theme=dark" alt="Kerem's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkremsezgin&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 <!---
 kkeremsezgin/kkeremsezgin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
