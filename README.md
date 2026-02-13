@@ -13,6 +13,8 @@
 
 ## 🚀 About Me
 
+> *"Great things come from hard work and perseverance no excuses."* - KOBE BRYANT
+
 I am a first-year computer engineering student at Istanbul University, passionate about building full-stack applications from the ground up. Currently, I'm developing a complete iOS app, building everything from a production-ready Go backend with PostgreSQL to modern SwiftUI interfaces. I love diving deep into both frontend and backend development, always eager to understand the "why" behind technologies rather than just the "how".
 
 My journey includes working with authentication systems, JWT tokens, database architecture, and MVVM patterns. I'm constantly learning about API design, security best practices, and creating scalable, maintainable code. Outside of coding, I was a competitive basketball player for 10 years, which taught me teamwork, discipline, and leadership.
