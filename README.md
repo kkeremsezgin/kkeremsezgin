@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi 👋 I'm Kerem
+# Hello there 👋 I'm Kerem
 
 ### Computer Engineering Student | Full-Stack Developer | iOS Enthusiast
 
