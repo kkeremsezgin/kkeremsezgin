@@ -1,69 +1,126 @@
-### Hi 👋 I'm Kerem
+<div align="center">
+  
+# Hi 👋 I'm Kerem
+
+### Computer Engineering Student | Full-Stack Developer | iOS Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/keremsezgin/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkeremsezgin)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a first-year computer engineering student at Istanbul University, passionate about exploring the realms of coding, data science, machine learning and building practical, user-friendly applications. I enjoy tackling problems with code and am always eager to learn new technologies.
+I am a first-year computer engineering student at Istanbul University, passionate about building practical, user-friendly applications. I love diving deep into both frontend and backend development, always eager to understand the "why" behind technologies rather than just the "how".
 
 Outside of coding, I was a competitive basketball player for 10 years, which taught me a lot about teamwork, discipline, and leadership.
 
 ---
 
-### 🚀 What I'm Up To
+## 🚀 Currently Building
 
-* 🐍 Building practical CLI tools and applications with **Python**.
-* 🧠 Exploring Data Science with **Pandas** and **Scikit-learn**.
-* 📱 Learning **Swift** and **SwiftUI** to build native iOS applications.
-* 📚 Mastering core concepts in **C** and **C++**.
-
----
-
-### 🌐 Connect with me:
-<p>
-<a href="https://www.linkedin.com/in/keremsezgin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
+- 🎯 **Full-Stack iOS Application**: Developing a complete social collecting app from scratch
+  - Building a **production-ready backend** with Go and PostgreSQL
+  - Implementing **secure authentication systems** (JWT, refresh tokens, email verification)
+  - Designing **modern SwiftUI interfaces** following MVVM architecture
+  - Learning **API design, database relationships, and security best practices**
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-My skills are always growing. Here's what I'm working with:
+### Backend Development
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-**Languages**
-<p>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
-</p>
+### Frontend Development
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Databases & Libraries**
-<p>
-    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-</p>
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Currently Learning**
-<p>
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-    <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Developer Tools**
-<p>
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-</p>
+---
 
+## 📚 Currently Learning
 
-<!---
-kkeremsezgin/kkeremsezgin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      
+### 🎯 Mastering Now
+![Go](https://img.shields.io/badge/Go_Backend-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Focus Areas:**
+- RESTful API Design
+- Authentication & Security
+- Database Architecture
+- iOS App Development (MVVM)
+
+</td>
+<td align="center" width="50%">
+
+### 🔮 Next Up
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Roadmap:**
+- Microservices Architecture
+- Cloud Deployment
+- Advanced iOS Features
+- System Design
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkeremsezgin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkeremsezgin&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkeremsezgin&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=38bdae)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremsezgin/)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=kkeremsezgin&color=70a5fd&style=flat-square&label=Profile+Views)
+
+</div>
