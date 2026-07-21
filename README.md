@@ -65,17 +65,6 @@ My journey includes working with authentication systems, JWT tokens, database ar
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kkeremsezgin&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=38bdae)](https://git.io/streak-stats)
-
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
